@@ -1,2 +1,2 @@
 # ML_with_R
-Machine Learning with R
+This is an example repository for introduction into Machine Learning with R
